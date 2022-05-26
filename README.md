@@ -1,2 +1,2 @@
 # Multi-label-Classification
-A multi-label fruit detection project using PyTorch
+This project uses computer vision techniques to classify images of fruits and vegetables and also provide their nutritional facts and health recommendations.
